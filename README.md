@@ -1,2 +1,2 @@
-# tvshows
+# AngularApp
 A simple angular app
